@@ -1,0 +1,6 @@
+.idea
+/.idea
+/venv
+/bookmarks/__pycache__
+/account/__pycache__
+
