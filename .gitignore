@@ -3,4 +3,5 @@
 /venv
 /bookmarks/__pycache__
 /account/__pycache__
+.env
 
